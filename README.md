@@ -6,4 +6,6 @@ chapter22-PythonWebScraping.ipynb
 
 chapter23_IterablesIteratorsGeneratorsClosuresDecorators.ipynb
 
+chapter24_ObjectOrientedProgrammingInPython.ipynb
+
 
